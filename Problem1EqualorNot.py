@@ -16,6 +16,7 @@ if x >= y:
     print("Your first number",x, "is equal to your second number",y,)
 elif x != y:
     print("Your first number",x, "is not equal to your second number",y,)
+#This last statement never gets executed.
 else:
     print("Come back to me when you are ready to compare two numbers")
 
